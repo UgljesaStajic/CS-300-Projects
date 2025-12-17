@@ -22,5 +22,4 @@ Another roadblock was managing user input errors and file-reading issues. I solv
 
 This project expanded my approach by teaching me to think more about performance, scalability, and data organization before writing code. As well it showed me why planing the data management is so important and it could have a big inpact in the speed or usability of the application itslef.
 
-My work on this project improved how I write programs and tought me that planing is a big and important step before the coding even starts. I learned about modular approach by separated functionality into logical functions and classes, which makes the code easier to read, maintain, and adapt in the future.
-Using consistent naming, clear menu options, and reusable components also made the program easier to extend if additional features were required later.
+My work on this project improved how I write programs and tought me that planing is a big and important step before the coding even starts. I learned about modular approach by separated functionality into logical functions and classes, which makes the code easier to read, maintain, and adapt in the future or even reuse for some other similar functions.
